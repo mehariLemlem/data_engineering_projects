@@ -8,4 +8,4 @@ The reporting layer focuses on critical business metrics such as gender-based cu
 On-Premises SQL Database, Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks, Azure Synapse Analytics, Power BI, Microsoft Entra ID (Azure Active Directory), Azure Key Vault
 
 ### **Solution Architecture** ###
-![PipelineArchitecture](PipelineArchitecture.jpg)
+![PipelineArchitecture.jpg](PipelineArchitecture.jpg)
